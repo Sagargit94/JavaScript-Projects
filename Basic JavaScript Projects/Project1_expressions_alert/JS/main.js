@@ -14,3 +14,7 @@ document.write(completeSentence);
 // Expression example: combine string and math
 var age = 30;
 document.write("<br>In 5 years, I will be " + (age + 5) + " years old.");
+// This function is called when the user hovers over the <h1>
+function mouseHover() {
+    document.write("You hovered over the heading!");
+}
