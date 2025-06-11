@@ -1,5 +1,5 @@
 # Here is my portfolio
--[Sagar Vaghasiya](./JS_Portfolio_Student/sample_index.html)
+## [Sagar Vaghasiya](./JS_Portfolio_Student/sample_index.html)
 # JavaScript Projects
 
 These are some small projects I made using JavaScript.
