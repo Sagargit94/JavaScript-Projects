@@ -4,7 +4,7 @@ These are some small projects I made using JavaScript.
 
 ## Projects
 
-- [Pizza Menu](.Basic-Javascript-projects/Pizza_project/pizza.html) 
+- [Pizza Menu](Basic-Javascript-projects/Pizza_project/pizza.html) 
 - [Tic-Tac-Toe Game](./TicTacToe/index.html)
 - [Calculator](./Calculator/index.html)
 
