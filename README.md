@@ -6,9 +6,9 @@ These are some small projects I made using JavaScript.
 
 ## Projects
 
-- [Pizza Menu](https://github.com/Sagargit94/JavaScript-Projects/tree/c166a0cfca588a29d4fa8fd321121f7bac7bc9e7/Basic%20JavaScript%20Projects/Pizza_project/pizza.html)  
-- [Tic-Tac-Toe Game](./BasicJavaScriptProjects/TicTacToe/TicTacToe.html)
-- [Calculator](./BasicJavaScriptProjects/calculator/calculator.html)
+- [Pizza Menu](./Basic-JavaScript-Projects/Pizza_Project/Pizza.html)  
+- [Tic-Tac-Toe Game](./Basic-JavaScript-Projects/TicTacToe/TicTacToe.html)
+- [Calculator](./Basic-JavaScript-Projects/calculator/calculator.html)
 
 ---
 
